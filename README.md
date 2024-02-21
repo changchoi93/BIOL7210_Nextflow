@@ -1,0 +1,1 @@
+This Nextflow repository is for an assignment for the BIOL7210 class. It contains a Nextflow script that takes two paired end read .fastq files as an input, does FastQ read trimming as the first step, and then FastA assembling as the second step.
